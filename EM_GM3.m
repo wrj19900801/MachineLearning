@@ -1,4 +1,4 @@
-function X = EM_GM4( x,k )
+function X = EM_GM3( x,k )
 % x now is a 2*1000 matrix
 % k = 3 is the cluster we want to cluster
 X=x'; %now X is a 1000*2 matrix
