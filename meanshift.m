@@ -1,4 +1,5 @@
 function [ x ] = meanshift()
+%This is to implement the meanshift algorithm
 
     mu = [0 0];
     S = [30,0;0 35];
